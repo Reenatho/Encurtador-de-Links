@@ -34,7 +34,7 @@ export default function Home () {
     return (
       <div className="container-home">
         <div className="logo">
-            <img src="/logo.svg" alt="sujeito link logo"/>
+            <FiLink size={150} color="FFF"/>
             <h1>Encurtador de Link</h1>
             <span>Cole seu link para encurtar 👇</span>
         </div>
